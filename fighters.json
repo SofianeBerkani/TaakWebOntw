@@ -1,0 +1,202 @@
+[
+  {
+    "id": "FTR-001",
+    "name": "Alex Vermeer",
+    "description": "Alex Vermeer is een explosieve kickbokser bekend om zijn snelle combinaties en sterke low kicks. Hij vecht voornamelijk in de lightweight divisie.",
+    "age": 27,
+    "isActive": true,
+    "birthDate": "1998-04-12",
+    "imageUrl": "https://ui-avatars.com/api/?name=Alex+Vermeer&background=1e3a5f&color=fff&size=400&bold=true",
+    "weightClass": "Lightweight",
+    "fightStyle": "Kickboxing",
+    "skills": ["Low kicks", "Boxing combinations", "Footwork"],
+    "club": {
+      "id": "CLUB-001",
+      "name": "Iron Fist Gym",
+      "city": "Amsterdam",
+      "headCoach": "Marco Jansen",
+      "foundedYear": 2008,
+      "logoUrl": "https://ui-avatars.com/api/?name=IF&background=1e3a5f&color=fff&size=200&bold=true"
+    }
+  },
+  {
+    "id": "FTR-002",
+    "name": "Yassin El Amrani",
+    "description": "Yassin is een technische vechter met een sterke achtergrond in Muay Thai en clinchwerk.",
+    "age": 31,
+    "isActive": true,
+    "birthDate": "1993-09-03",
+    "imageUrl": "https://ui-avatars.com/api/?name=Yassin+El+Amrani&background=1e3a5f&color=fff&size=400&bold=true",
+    "weightClass": "Welterweight",
+    "fightStyle": "Muay Thai",
+    "skills": ["Clinching", "Elbows", "Knees"],
+    "club": {
+      "id": "CLUB-002",
+      "name": "Golden Strike Academy",
+      "city": "Rotterdam",
+      "headCoach": "Said Benali",
+      "foundedYear": 2012,
+      "logoUrl": "https://ui-avatars.com/api/?name=GS&background=b8860b&color=fff&size=200&bold=true"
+    }
+  },
+  {
+    "id": "FTR-003",
+    "name": "Tom De Wilde",
+    "description": "Tom staat bekend om zijn knock-out kracht en agressieve vechtstijl in de ring.",
+    "age": 24,
+    "isActive": true,
+    "birthDate": "2000-01-19",
+    "imageUrl": "https://ui-avatars.com/api/?name=Tom+De+Wilde&background=1e3a5f&color=fff&size=400&bold=true",
+    "weightClass": "Middleweight",
+    "fightStyle": "Kickboxing",
+    "skills": ["Power punches", "High kicks", "Pressure fighting"],
+    "club": {
+      "id": "CLUB-003",
+      "name": "Northern Warriors Gym",
+      "city": "Antwerp",
+      "headCoach": "Kevin Peeters",
+      "foundedYear": 2005,
+      "logoUrl": "https://ui-avatars.com/api/?name=NW&background=8b0000&color=fff&size=200&bold=true"
+    }
+  },
+  {
+    "id": "FTR-004",
+    "name": "Luca Romano",
+    "description": "Luca combineert snelheid en precisie met een sterke defensieve stijl.",
+    "age": 29,
+    "isActive": true,
+    "birthDate": "1996-06-08",
+    "imageUrl": "https://ui-avatars.com/api/?name=Luca+Romano&background=1e3a5f&color=fff&size=400&bold=true",
+    "weightClass": "Featherweight",
+    "fightStyle": "Kickboxing",
+    "skills": ["Counter striking", "Movement", "Timing"],
+    "club": {
+      "id": "CLUB-001",
+      "name": "Iron Fist Gym",
+      "city": "Amsterdam",
+      "headCoach": "Marco Jansen",
+      "foundedYear": 2008,
+      "logoUrl": "https://ui-avatars.com/api/?name=IF&background=1e3a5f&color=fff&size=200&bold=true"
+    }
+  },
+  {
+    "id": "FTR-005",
+    "name": "Kevin Brouwers",
+    "description": "Een ervaren vechter met een sterke focus op conditie en volume striking.",
+    "age": 35,
+    "isActive": false,
+    "birthDate": "1989-11-21",
+    "imageUrl": "https://ui-avatars.com/api/?name=Kevin+Brouwers&background=1e3a5f&color=fff&size=400&bold=true",
+    "weightClass": "Heavyweight",
+    "fightStyle": "Kickboxing",
+    "skills": ["Endurance", "Jabs", "Ring control"],
+    "club": {
+      "id": "CLUB-004",
+      "name": "Titan Combat Club",
+      "city": "Utrecht",
+      "headCoach": "Dennis Koster",
+      "foundedYear": 2010,
+      "logoUrl": "https://ui-avatars.com/api/?name=TC&background=4a4a4a&color=fff&size=200&bold=true"
+    }
+  },
+  {
+    "id": "FTR-006",
+    "name": "Milan Kovac",
+    "description": "Milan is een strategische vechter die zijn tegenstanders langzaam afbreekt.",
+    "age": 26,
+    "isActive": true,
+    "birthDate": "1999-02-14",
+    "imageUrl": "https://ui-avatars.com/api/?name=Milan+Kovac&background=1e3a5f&color=fff&size=400&bold=true",
+    "weightClass": "Lightweight",
+    "fightStyle": "Kickboxing",
+    "skills": ["Leg kicks", "Defense", "Fight IQ"],
+    "club": {
+      "id": "CLUB-003",
+      "name": "Northern Warriors Gym",
+      "city": "Antwerp",
+      "headCoach": "Kevin Peeters",
+      "foundedYear": 2005,
+      "logoUrl": "https://ui-avatars.com/api/?name=NW&background=8b0000&color=fff&size=200&bold=true"
+    }
+  },
+  {
+    "id": "FTR-007",
+    "name": "Samira Khalid",
+    "description": "Samira is een opkomend talent in het vrouwenkickboksen met een agressieve stijl.",
+    "age": 23,
+    "isActive": true,
+    "birthDate": "2001-08-30",
+    "imageUrl": "https://ui-avatars.com/api/?name=Samira+Khalid&background=1e3a5f&color=fff&size=400&bold=true",
+    "weightClass": "Strawweight",
+    "fightStyle": "Kickboxing",
+    "skills": ["Speed", "Combination strikes", "Aggression"],
+    "club": {
+      "id": "CLUB-002",
+      "name": "Golden Strike Academy",
+      "city": "Rotterdam",
+      "headCoach": "Said Benali",
+      "foundedYear": 2012,
+      "logoUrl": "https://ui-avatars.com/api/?name=GS&background=b8860b&color=fff&size=200&bold=true"
+    }
+  },
+  {
+    "id": "FTR-008",
+    "name": "Jonas Meijer",
+    "description": "Jonas is een defensief sterke vechter die uitblinkt in counter attacks.",
+    "age": 28,
+    "isActive": true,
+    "birthDate": "1997-12-05",
+    "imageUrl": "https://ui-avatars.com/api/?name=Jonas+Meijer&background=1e3a5f&color=fff&size=400&bold=true",
+    "weightClass": "Welterweight",
+    "fightStyle": "Kickboxing",
+    "skills": ["Counters", "Distance control", "Head movement"],
+    "club": {
+      "id": "CLUB-004",
+      "name": "Titan Combat Club",
+      "city": "Utrecht",
+      "headCoach": "Dennis Koster",
+      "foundedYear": 2010,
+      "logoUrl": "https://ui-avatars.com/api/?name=TC&background=4a4a4a&color=fff&size=200&bold=true"
+    }
+  },
+  {
+    "id": "FTR-009",
+    "name": "Daan Visser",
+    "description": "Een jonge vechter met veel potentieel en een achtergrond in karate.",
+    "age": 21,
+    "isActive": true,
+    "birthDate": "2003-03-17",
+    "imageUrl": "https://ui-avatars.com/api/?name=Daan+Visser&background=1e3a5f&color=fff&size=400&bold=true",
+    "weightClass": "Featherweight",
+    "fightStyle": "Kickboxing",
+    "skills": ["High kicks", "Speed", "Explosiveness"],
+    "club": {
+      "id": "CLUB-001",
+      "name": "Iron Fist Gym",
+      "city": "Amsterdam",
+      "headCoach": "Marco Jansen",
+      "foundedYear": 2008,
+      "logoUrl": "https://ui-avatars.com/api/?name=IF&background=1e3a5f&color=fff&size=200&bold=true"
+    }
+  },
+  {
+    "id": "FTR-010",
+    "name": "Rashid Noor",
+    "description": "Rashid is een ervaren allround kickbokser met een sterke mentale weerbaarheid.",
+    "age": 33,
+    "isActive": true,
+    "birthDate": "1991-07-11",
+    "imageUrl": "https://ui-avatars.com/api/?name=Rashid+Noor&background=1e3a5f&color=fff&size=400&bold=true",
+    "weightClass": "Middleweight",
+    "fightStyle": "Kickboxing",
+    "skills": ["Allround striking", "Experience", "Mental toughness"],
+    "club": {
+      "id": "CLUB-002",
+      "name": "Golden Strike Academy",
+      "city": "Rotterdam",
+      "headCoach": "Said Benali",
+      "foundedYear": 2012,
+      "logoUrl": "https://ui-avatars.com/api/?name=GS&background=b8860b&color=fff&size=200&bold=true"
+    }
+  }
+]
